@@ -5,3 +5,5 @@
 This interactive chart:
 * Allows users to select between different variables on the x and y axes
 * Incorporates tool tips to allow users to see the x and y values for the selected chart variables for any given state in the chart 
+
+![scatterplot](https://github.com/bking3372/Census-Data-Interactive-Scatter-Plot/blob/master/D3_data_journalism/images/scatterplot.gif)
